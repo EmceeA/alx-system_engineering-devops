@@ -1,1 +1,1 @@
-the contents list of your current directory
+Tasks 3. Display current directory contents in a long format
